@@ -1,7 +1,7 @@
 body {
 
 
- font-family: "Lexend", sans-serif;
+  font-family: "Montserrat", serif;
   font-optical-sizing: auto;
   font-weight: <200>;
   font-style: normal;
@@ -41,9 +41,9 @@ border-radius: 15px 15px 0px 0px;
 }
 header h2 {
 
-font-family: "Lexend", sans-serif;
+  font-family: "DM Serif Display", serif;
   font-optical-sizing: auto;
-  font-weight: 300;
+  font-weight: 300px;
   font-style: normal;
   color: black;
   margin: 0;
@@ -89,7 +89,7 @@ nav li a {
 }
 
 /* Change the link color to #111 (black) on hover */
-nav li a: hover {
+nav li a:hover {
 
   background-color: #e3f2fd;
 }
@@ -97,7 +97,7 @@ footer {
 
   background: rgba(100,149,237, 0.7);
   padding: 40px;
-font-family: "Lexend", sans-serif;
+  font-family: "Montserrat", serif;
   font-optical-sizing: auto;
   font-weight: <200>;
   font-style: normal;
