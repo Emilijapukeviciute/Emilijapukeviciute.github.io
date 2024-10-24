@@ -76,7 +76,9 @@ nav li {
  
 }
 
-
+nav ul li a {
+    font-weight: bold;
+}
 nav li a {
 
   display: block;
