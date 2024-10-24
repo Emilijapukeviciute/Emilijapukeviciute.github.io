@@ -28,7 +28,7 @@ height; 350px;
 float: right;
 }
 header {
-
+font-family: "Lexend", sans-serif;
 border-radius: 15px 15px 0px 0px;
   background: #73AD21;
   padding: 20px;
@@ -41,9 +41,9 @@ border-radius: 15px 15px 0px 0px;
 }
 header h2 {
 
-   font-family: "Lexend", sans-serif;
+font-family: "Lexend", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 300px;
+  font-weight: 300;
   font-style: normal;
   color: black;
   margin: 0;
@@ -89,7 +89,7 @@ nav li a {
 }
 
 /* Change the link color to #111 (black) on hover */
-nav li a:hover {
+nav li a: hover {
 
   background-color: #e3f2fd;
 }
